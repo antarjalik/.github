@@ -7,7 +7,6 @@ Antarjalik is a group that supports the Bangladesh Students Union (BSU). They wo
 # Let's work together
 [![](https://dcbadge.vercel.app/api/server/8sZRQDZNVg)](https://discord.gg/8sZRQDZNVg)
 
-https://discord.com/invite/8sZRQDZNVg
 <!--
 
 **Here are some ideas to get you started:**
