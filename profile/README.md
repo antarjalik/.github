@@ -2,7 +2,7 @@
 ![logo](https://raw.githubusercontent.com/antarjalik/antarjalik/main/antarjalik-logo.svg)
 
 # Antarjalik 
-Antarjalik is a group that supports the Bangladesh Students Union (BSU). They work online to promote socialism and fight against propaganda.
+Antarjalik is a group of internet activists that supports the Bangladesh Students' Union (BSU). They work online to promote socialism and fight against propaganda.
 
 # Let's work together
 [![](https://dcbadge.vercel.app/api/server/8sZRQDZNVg)](https://discord.gg/8sZRQDZNVg)
