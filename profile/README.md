@@ -1,5 +1,5 @@
 ## Hi there 👋
-![logo](https://raw.githubusercontent.com/antarjalik/antarjalik/main/antarjalik-logo.svg)
+![logo](https://raw.githubusercontent.com/antarjalik/antarjalik/main/antarjalik-white-bg.jpeg)
 
 # Antarjalik 
 Antarjalik is a group of internet activists that supports the Bangladesh Students' Union (BSU). They work online to promote socialism and fight against propaganda.
